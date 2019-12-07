@@ -13,4 +13,5 @@ else
     ./app/gphotos-uploader-cli init
     nano t.py
     nano ~/.gphotos-uploader-cli/config.hjson
+    ./app/gphotos-uploader-cli auth
 fi
