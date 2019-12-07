@@ -14,4 +14,5 @@ else
     nano t.py
     nano ~/.gphotos-uploader-cli/config.hjson
     ./app/gphotos-uploader-cli auth
+    mkdir media/Switch #because git doesn't copy empty folders
 fi
